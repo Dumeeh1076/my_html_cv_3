@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About</title>
+    <p>
+        <center><h2>About me</h2> </center><br>
+    </p>
+    <p>
+    </head>
+    <body>
+        <center><h4>DATE OF BIRH <br>26th October 1982</h4> </center>
+    
+<CEnter><h4>SEX <br>Male</h4></CEnter>
+<center><h4>MARITAL STATUS <br>married with children</h4> </center>
+<center><h4>NATIONALITY <br>Nigerian</h4> </center>
+<center><h4>RELIGION <br>Christianity</h4> </center>
+<center><h4>HEIGHT <br>1.72 meter tall</h4> </center>
+<center><h4>DISABILITY <br>None</h4> </center>
+
+        
+    </p>
+   
+</body>
+
+<p>
+    <footer>
+        <nav>
+            <a href="Home.html">Home</a>
+            <a href="Education.html">Education</a>
+            <a href="Skill.html">Skill</a>
+            <a href="Contact.html">Contact</a>
+        </nav>
+    </footer>
+    </p>
+</html>

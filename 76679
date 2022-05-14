@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Education</title>
+    <center><h2>Education</h2> </center><br>
+</head>
+<body>
+    
+    </p>
+  
+        <center><h4>WEB DEVELOPMENT (FRONT-END) <br>Rivers Technology Creek, Port harcourt &nbsp;2022</h4> </center>
+        <center><h4>ANIMATION 2D <br>Rivers Technology Creek, Port harcourt &nbsp;2021</h4> </center>
+        <center><h4>CISCO CERTIFY NETWORK ASSOCIATE CCNA <br>Cisco Academy Gokana Computer School)&nbsp;2012</h4> </center>
+        <center><h4>NATIONAL DIPOLMA COMPUTER SCIENCE<br>Beeson Ken Saro Wiwa polytechnic, Bori &nbsp;2013</h4> </center>
+        <center><h4>SENIOR SCHOOL CERTIFICATE EXAMINATION (SSCE)<br>Community Secondary School, Mogho &nbsp;2001</h4> </center>
+        <p>
+            
+                <footer>
+                    <nav>
+                        <a href="Home.html">Home</a>
+                        <a href="About.html">About</a>
+                        <a href="Skill.html">Skill</a>
+                       
+                        <a href="Contact.html">Contact</a>
+                    </nav>
+                </footer>
+                </p> 
+</body>
+</html>

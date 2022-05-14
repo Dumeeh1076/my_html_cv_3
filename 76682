@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SKILL</title>
+    <center><h2>Education</h2> </center><br>
+</head>
+<body>
+    <fieldset><br>
+        <legend style="text-align:center;">SKILL</legend>
+        <TAble style="width: 100%">
+            <tr>
+                <th style="width:40%">ORGANIZATIONAL SKILL</th>
+                <th style="width:30%">IT SKILL</th>
+                <th style="width:30%">SOCIAL SKILL</th>
+            </tr>
+    <tr>
+        <th style="width: 40%">Negotiation <br>Time management <br>Communication <br>presentation
+             <br>project management</th>
+    
+        <th style="width: 30%">Animation <br>graphic design <br>Networking <br>illustration 
+            <br>Media <br>Photography</th>
+            <th style="width: 30%">Motivate <br>inspire <br>building trust <br> network</th>
+    </tr>
+        </TAble>
+   
+</body>
+</fieldset> 
+<p>
+    <footer>
+        <nav>
+            <a href="Home.html">Home</a>
+            <a href="About.html">About</a>
+            <a href="Education.html">Education</a>
+           
+            <a href="Contact.html">Contact</a>
+        </nav>
+    </footer>
+    </p>
+</html>

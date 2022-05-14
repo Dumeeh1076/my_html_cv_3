@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+   
+<head>
+<center><img src="brett.jpg" style="width:10%" alt="Brett" class="center"></center>
+<h2 style="text-align:center;">BIRAGBARA BRETT DUMDUMENE</h2>
+<h3 style="text-align:center;">Web Developer, Front-end, animator, illustrator, graphic 
+    desinger, voice artist</h3>
+</head>
+
+
+
+<body>
+    <br>
+<fieldset>
+    <center><legend style="text-align:center;">PROFILE</legend>
+    <p>
+        <h4 style="text-align:center;">
+        A young energitic Male, logical mind, a pratical problem solving <br>an IT professional 
+        with comprehensive business/technical skill set aqnd expertise in process improvement, <br>
+        system integration who envisions business and technical perspective to develop workable solutions. <br>
+        Motivated achiever who guides organisations in applying technology to business settings, <br>
+        provides add value, and creates project deliverables in timely manner.</h4></center>
+
+    </p>
+</fieldset>
+
+<br>    
+</body>
+<p>
+<footer>
+    <nav>
+        <a href="About.html">About</a>
+        <a href="Education.html">Education</a>
+        <a href="Skill.html">Skill</a>
+        <a href="Contact.html">Contact</a>
+    </nav>
+</footer>
+</p>
+
+</html>

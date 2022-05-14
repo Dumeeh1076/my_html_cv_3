@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact</title>
+    <center><h2>Contact Information</h2> </center><br> 
+</head>   
+<body>
+    <center><h4>HOME ADDRESS <br>13 Menegbara close, Mogho Gokana. Gokana lga, Rivers State. Nigeria</h4> </center>  
+    <center><h4>RESIDENCE ADDRESS<br>12 Mgbuesiralu road, Rumuigbo. Port Harcourt. Rivers State, Nigeria</h4> </center>
+    <center><h4>PHONE) <br>234 806 6570 569</h4> </center>
+    <center><h4>EMAIL<br style="text-align:center;"><a href="mailto:brett.biragbara@gmail.com">brett.biragbara@gmail.com </center>
+        <center><h4>FACEBOOK<br style="text-align:center;"><a href="https://www.facebook.com/brett.biragbara">Facebook_brett biragbara </center>  
+            <center><h4>INSTAGRAM<br style="text-align:center;"><a href="https://www.instagram.com/brettbiragbara?igshid=YmMyMTAZMZY=">Instagram_brett biragbara </center></html>
+
+                <br>
+
+                  
+                        
+                    </body>
+                    
+                <p>
+                    <footer>
+                        <nav>
+                            <a href="Home.html">Home</a>
+                            <a href="About.html">About</a>
+                            <a href="Education.html">Education</a>
+                           
+                            <a href="Skill.html">Skill</a>
+                        </nav>
+                    </footer>
+                    </p> 
+                   </html>
